@@ -49,8 +49,9 @@ This is a collection of review papers for MARL and evaluation methods for RL in 
 
 ### Frameworks
 * [Mava: a research framework for distributed multi-agent reinforcement learning](https://arxiv.org/pdf/2107.01460.pdf) by Arnu Pretorius, Kale-ab Tessera, Andries P. Smit, Kevin Eloff, Claude Formanek, St John Grimbly, Siphelele Danisa, Lawrence Francis, Jonathan Shock, Herman Kamper, Willie Brink, Herman Engelbrecht, Alexandre Laterre and Karim Beguir. arXiv 2021.
-* [The StarCraft Multi-Agent Challenge](https://arxiv.org/abs/1902.04043) by Mikayel Samvelyan, Tabish Rashid, Christian Schroeder de Witt, Gregory Farquhar, Nantas Nardelli, Tim G. J. Rudner, Chia-Man Hung, Philip H. S. Torr, Jakob Foerster, Shimon Whiteson. arXiv 2019.
+* 
 
 ### Benchmarks
 * [Behaviour Suite for Reinforcement Learning](https://arxiv.org/pdf/1908.03568.pdf) by Ian Osband, Yotam Doron, Matteo Hessel, John Aslanides, Eren Sezener, Andre Saraiva, Katrina McKinney, Tor Lattimore, Csaba Szepesvari, Satinder Singh, Benjamin Van Roy, Richard Sutton, David Silver and Hado Van Hasselt. arXiv 2020.
+* [The StarCraft Multi-Agent Challenge](https://arxiv.org/abs/1902.04043) by Mikayel Samvelyan, Tabish Rashid, Christian Schroeder de Witt, Gregory Farquhar, Nantas Nardelli, Tim G. J. Rudner, Chia-Man Hung, Philip H. S. Torr, Jakob Foerster, Shimon Whiteson. arXiv 2019.
 
