@@ -4,14 +4,14 @@ There has been substantial growth in the field of Multi-Agent Reinforcemnt Learn
 
 This is a collection of review papers for MARL and evaluation methods for RL in general. We sort papers by publication date and survey subtopic. Any additions to this repo are welcome
 ## Overview
-* [Survey Papers](https://github.com/siddarthsingh1/Paper-Collection-of-Multi-Agent-Reinforcement-Learning-MARL-Surveys#review-papers)
-* [Research Papers](https://github.com/siddarthsingh1/Paper-Collection-of-Multi-Agent-Reinforcement-Learning-MARL-Surveys#research-papers)
-  * [Evaluation for RL](https://github.com/siddarthsingh1/Paper-Collection-of-Multi-Agent-Reinforcement-Learning-MARL-Surveys#evaluation-RL)
-  * [Evaluation for MARL](https://github.com/siddarthsingh1/Paper-Collection-of-Multi-Agent-Reinforcement-Learning-MARL-Surveys#evaluation-MARL)
-  * [Implementation](https://github.com/siddarthsingh1/Paper-Collection-of-Multi-Agent-Reinforcement-Learning-MARL-Surveys#implementation)
-  * [Real-world challenges](https://github.com/siddarthsingh1/Paper-Collection-of-Multi-Agent-Reinforcement-Learning-MARL-Surveys#real-world-challenges)
-  * [Frameworks](https://github.com/siddarthsingh1/Paper-Collection-of-Multi-Agent-Reinforcement-Learning-MARL-Surveys#frameworks)
-  * [Benchmarks](https://github.com/siddarthsingh1/Paper-Collection-of-Multi-Agent-Reinforcement-Learning-MARL-Surveys#benchmarks)
+* [Survey Papers](https://github.com/siddarthsingh1/MARL-literature)
+* [Research Papers](https://github.com/siddarthsingh1/MARL-literature)
+  * [Evaluation for RL](https://github.com/siddarthsingh1/MARL-literature#evaluation-RL)
+  * [Evaluation for MARL](https://github.com/siddarthsingh1/MARL-literature#evaluation-MARL)
+  * [Implementation](https://github.com/siddarthsingh1/MARL-literature#implementation)
+  * [Real-world challenges](https://github.com/siddarthsingh1/MARL-literature#real-world-challenges)
+  * [Frameworks](https://github.com/siddarthsingh1/MARL-literature#frameworks)
+  * [Benchmarks](https://github.com/siddarthsingh1/MARL-literature#benchmarks)
  
 ## Survey Papers
 * [Multi‑agent deep reinforcement learning: a survey](https://link.springer.com/content/pdf/10.1007/s10462-021-09996-w.pdf) by Sven Gronauer and Klaus Diepold. Artifcial Intelligence Review 2021.
